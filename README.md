@@ -136,15 +136,6 @@ The system:
 
 ---
 
-# 🎥 Example Recommendations
-
-If you search:
-
-```bash id="s7qgdr"
-Avatar
-```
----
-
 # 🌐 Streamlit Interface
 
 The web app allows users to:
